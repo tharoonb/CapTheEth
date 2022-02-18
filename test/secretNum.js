@@ -10,5 +10,3 @@ let hsh= "0xdb81b4d58595fbbbb592d3661a34cdca14d7ab379441400cbfa1b78bc447c365";
         console.log(i);
       }
    }
-let blc = 11981240;
-console.log(ethers.utils.(keccak256(block.blockhash(blc - 1), now)))

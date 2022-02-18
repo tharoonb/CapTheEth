@@ -1,0 +1,4 @@
+block number: 11981240
+inspect state variable on etherscan 
+
+random number generated: 3
